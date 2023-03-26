@@ -1,0 +1,1 @@
+<?php shell_exec( 'cd /var/www/html/CD4IoRT; git reset --hard origin/2023; git clean -d -f; git pull https://github.com/lorenzorossiunicam/CD4IoRT 2023' ); ?>
