@@ -1,0 +1,53 @@
+************************************************************************
+CALL FOR PAPERS
+
+Workshop on Conceptual design for Internet of Robotic Things (CD4IoRT)
+To be held in conjunction with ER 2023 (https://er2023.inesc-id.pt)
+November 6-9 2023
+Lisbon, Portugal
+https://pros.unicam.it/cd4iort 
+
+*************************************************************************
+
+** GENERAL INFORMATION and GOAL OF THE WORKSHOP **
+The objective of the First Workshop on Conceptual Desing for Internet of Robotic Things (CD4IoRT) is to foster the use of conceptual design in the Internet of Robotic Things (IoRT) domain. Thanks to the advantages brought into everyday human life, IoRT systems have emerged as key technologies with a wide range of applications, in many application domains, e.g., agriculture, manufacturing, industry, domotics, and health. However, the implementation and management of these systems require a broad set of skills. This knowledge gap can be closed by novel conceptual modeling and engineering approaches specific to these software systems. The workshop aims to be a point of contact for practitioners and researchers from Conceptual Modeling with other communities such as Software Engineering, Databases, Business Process Management, Distributed Systems, Formal Methods, and Information Systems where creating a dialogue centered on the development of scientific foundations in this topic. The workshop will foster the discussion of research works case studies, experiences, and industry showcases in order to set up joint activities and future research directions.
+
+
+
+** LIST OF TOPICS **
+We seek contributions covering all aspects of data modeling for IoRT data applications including, but not limited to, the following topics:
+
+Conceptual modeling and languages for IoRT data 
+Model-driven engineering for IoRT systems
+Low code methods for IoRT systems
+Integration and querying IoRT data
+Requirement engineering for IoRT systems
+IoRT and Artificial Intelligence
+Edge-Fog-Cloud architectures design
+Data and QoS modeling
+Real-time, NoSQL databases
+Data stream management systems design
+Embedded systems design
+Real-life (Urban, agriculture, health, …) applications
+
+** SUBMISSION INSTRUCTIONS **
+Submissions should present original works not currently under review or published elsewhere. 
+This workshop accepts research and industrial papers: 
+Regular: 10 pages max.
+Short: 6 pages max (Demostration, Vision, and Showcase papers)
+
+All accepted papers will be published in the conference proceedings and will be submitted for inclusion. 
+Papers should be submitted in PDF format using the EasyChair online submission system (https://easychair.org/conferences/overview?a=30545729). Authors should consult Springer's authors' guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers.
+
+** IMPORTANT DATES **
+Abstract Submission: 02 August 2023
+Acceptance Notification: 04 September 2023
+Camera-Ready Papers: 20 September 2023
+
+** WORKSHOP ORGANIZERS **
+Sandro Bimonte, INRAE, France
+Lorenzo Rossi, University of Camerino, Italy
+
+** PUBLICATION **
+The workshop papers will be published by Springer in LNCS series. 
+The authors of selected workshop regular papers will be invited to submit an extended version of their contributions to a special issue of a well-established and ranked international journal (tbd).
